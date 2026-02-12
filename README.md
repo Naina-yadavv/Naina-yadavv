@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on-<br>• Contributing to open-source projects through AcWoC’26<br>• Improving my GitHub workflow and coding fundamentals<br><br>I'm looking to collaborate on-<br>• Beginner-friendly open-source projects<br>• Documentation, small features, and bug fixes<br><br>I'm currently learning-<br>• Git & GitHub<br>• Open-source contribution workflow<br>• Core programming concepts
+I'm currently working on-<br>• Contributing to open-source projects.<br>• Improving my GitHub workflow and coding fundamentals<br><br>I'm looking to collaborate on-<br>• Beginner-friendly open-source projects<br>• Documentation, small features, and bug fixes<br><br>I'm currently learning-<br>• Git & GitHub<br>• Open-source contribution workflow<br>• Core programming concepts
 
 
 ## 🌐 Socials:
